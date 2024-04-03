@@ -1,7 +1,9 @@
 package scenarioTest;
 
 import personnages.Gaulois;
-import villagegaulois.Etal;
+import produit.Poisson;
+import produit.Sanglier;
+import villagegauloisold.Etal;
 
 public class Scenario {
 
